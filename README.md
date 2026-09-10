@@ -239,3 +239,6 @@ This repository serves as the official landing page for vtiger CRM. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of vtiger CRM today!**
+
+---
+**Last updated:** 2026-09-10 09:25:28 UTC
