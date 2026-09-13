@@ -241,4 +241,4 @@ This repository serves as the official landing page for vtiger CRM. The software
 **Get the most recent version of vtiger CRM today!**
 
 ---
-**Last updated:** 2026-09-13 09:12:48 UTC
+**Last updated:** 2026-09-13 14:08:57 UTC
